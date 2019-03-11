@@ -6,7 +6,7 @@
 - Content-Type： `application/json`
   
 - 回传格式：
-```
+
 {::options parse_block_html="true" /}
 
 <div>
@@ -20,13 +20,13 @@
 
 范例：
 {
-	"isSuccess": true,
-	"message": "成功",
-	"code": "AP-0000",
-	"result": { "count":"1" },
+ "isSuccess": true,
+ "message": "成功",
+ "code": "AP-0000",
+ "result": { "count":"1" },
 }
 
 </div>
-```
+
 
 ---
